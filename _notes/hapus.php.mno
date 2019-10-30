@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:pl_id;datatype:int,name:pl_nama;datatype:blob,name:pl_alamat;datatype:blob,name:pl_telp;datatype:blob,name:pl_jkt_ref;datatype:int,name:pl_tgl_entry;datatype:date,name:tl_id;datatype:int" />
+</info>

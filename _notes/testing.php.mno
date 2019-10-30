@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:avatar;datatype:blob,name:nama;datatype:string,name:alamat;datatype:string,name:id_golongan;datatype:int" />
+	<infoitem key="UD_pelanggan" value="name:pl_id;datatype:int,name:pl_nama;datatype:blob,name:pl_alamat;datatype:blob,name:pl_telp;datatype:blob,name:pl_jkt_ref;datatype:int,name:pl_tgl_entry;datatype:date,name:tl_id;datatype:int" />
+	<infoitem key="UD_tarif" value="name:tl_id;datatype:int,name:tl_daya;datatype:int,name:tl_tarif;datatype:int,name:tl_max;datatype:int,name:tl_lebih;datatype:int" />
+</info>
